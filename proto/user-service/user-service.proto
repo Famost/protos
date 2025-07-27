@@ -37,3 +37,4 @@ message IsAdminResponse {
     bool is_admin = 1;
 }
 
+
